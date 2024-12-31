@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState } from 'react';
-import ColorInput from './colorInput';
+import ColorInput from './ColorInput';
 import SampleInterface from './SimpleInterface';
 
 const ColorPaletteDesigner: React.FC = () => {
